@@ -2,9 +2,8 @@
 layout: page
 title:
 ---
-
 <p class="message">
-Welcome to the Mapping Carifesta Archives project, an initiative to bring together and make accessible the dispersed records of <a href="https://dloc.com/collections/icarifesta">Carifesta</a>, the Caribbean Festival of Arts.
+Welcome to the website of the Mapping Carifesta Archives project, an initiative to bring together and make accessible the dispersed records of <a href="https://dloc.com/collections/icarifesta">Carifesta</a>, the Caribbean Festival of Arts.
 </p>
 
 <h2>Why Mapping?</h2>
@@ -13,7 +12,6 @@ Welcome to the Mapping Carifesta Archives project, an initiative to bring togeth
 Carifesta, a cultural festival that brings together the arts of the Caribbean, does not have a single, unified archive. Instead, its records are scattered across various institutions, libraries, and personal collections worldwide. This map aims to provide transparency and accessibility to these dispersed records, highlighting the richness and breadth of Carifesta's history.
 </p>
 <div id="shiny-app-container">
-
   <iframe src="https://rjkooiker.shinyapps.io/carifesta-archives" style="border: none; width: 100%; height: 100%"></iframe>
 </div>
 

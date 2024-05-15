@@ -1,6 +1,6 @@
 # Setup
 title:               Mapping Carifesta Archives
-tagline:             'A comprehensive and interactive map of Carifesta collections worldwide.'
+tagline:             'A comprehensive and interactive map of Carifesta collections worldwide'
 description:         'Made by <a href="https://rjkooiker.github.io" target="_blank">René J. Kooiker</a>.'
 url:                 https://rjkooiker.github.io
 baseurl:             /carifesta-archives-map
