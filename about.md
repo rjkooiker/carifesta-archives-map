@@ -7,5 +7,3 @@ title: About
 </p>
 
 ## TITLE
-
-TK
