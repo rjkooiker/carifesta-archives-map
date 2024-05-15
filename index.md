@@ -36,6 +36,9 @@ Carifesta, a cultural festival that brings together the arts of the Caribbean, d
 <p>
 <strong>Location Details:</strong> Click on a marker to view detailed information about the repository, including the type of materials available and how to access them.
 </p>
+
+<h2>Limitations and Scope</h2>
+
 <p>
-Understanding the Map's Scope
+While digital tools have made it easier to locate and access Carifesta materials, they also have limitations. Not all archives are digitized, and not all digital records are complete or accurate. This map strives to balance the ease of digital access with the depth of physical archives, offering a comprehensive view of the Carifesta archival landscape.
 </p>
