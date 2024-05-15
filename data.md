@@ -37,7 +37,8 @@ title: Data
   </table>
 </div>
 
-<p><a href="{{ site.baseurl }}/assets/carifesta.csv" download>Download CSV</a></p>
+<h2>Download</h2>
+<p><a href="{{ site.baseurl }}/assets/carifesta.csv" download>csv</a></p>
 
 <script>
 $(document).ready(function() {
@@ -48,6 +49,8 @@ $(document).ready(function() {
             $('#dataTable').DataTable({
                 data: results.data,
                 scrollX: true,
+                pageLength: 10,
+                lengthMenu: [ [10, 25, 50, -1], [10, 25, 50, "All"] ],
                 columns: [
                     { "data": "pid" },
                     { 

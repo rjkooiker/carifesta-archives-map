@@ -3,7 +3,6 @@
     height: 885px; /* 100% of the viewport height */
     position: relative; /* This is needed for the iframe to position itself correctly */
 }
-
 #shiny-app-container iframe {
     position: absolute;
     top: 0;
@@ -11,3 +10,21 @@
     width: 100%;
     height: 100%;
 }
+
+
+
+.dataTables_scrollHeadInner > table:nth-child(1) > thead:nth-child(1) > tr:nth-child(1) {
+    font-size: 11px;
+}
+
+#dataTable > tbody:nth-child(2) {
+    font-size: 11px;
+}
+
+#dataTable td {
+    white-space: normal;
+  }
+
+.dataTables_length {
+    margin-bottom: 20px; /* Adjust as needed */
+  }
