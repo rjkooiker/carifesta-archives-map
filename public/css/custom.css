@@ -1,8 +1,7 @@
 #shiny-app-container {
     width: 100%; /* 100% of the parent element's width */
-    height: 100vh; /* 100% of the viewport height */
+    height: 885px; /* 100% of the viewport height */
     position: relative; /* This is needed for the iframe to position itself correctly */
-    margin-right: 20px; /* Add a right margin */
 }
 
 #shiny-app-container iframe {
